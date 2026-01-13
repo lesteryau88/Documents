@@ -1,0 +1,1 @@
+print('This is my first pthon script written in VS Code')

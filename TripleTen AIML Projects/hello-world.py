@@ -1,5 +1,7 @@
 import random
 
+from matplotlib.pyplot import get
+
 greetings = [
     "Hello, Git!",
     "Greetings, developer!",
@@ -13,5 +15,5 @@ def get_random_greeting():
     return random.choice(greetings)
 
 
-print(get_random_greeting())
+print(get       _random_greeting())
 print("Learning about branches today!")
